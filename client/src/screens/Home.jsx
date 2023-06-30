@@ -1,7 +1,7 @@
 import React from 'react'
 import Chat from '../screens/Chat';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, TextInput, View, Button, AsyncStorage} from 'react-native';
+import { StyleSheet, Text, TextInput, View, Button} from 'react-native';
 import io from "socket.io-client";
 
 
